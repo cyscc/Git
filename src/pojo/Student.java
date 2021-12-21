@@ -37,6 +37,7 @@ public class Student {
 
     public void page(){
         System.out.println("???");
+        System.out.println("???");
     }
 
     public void page1(){
