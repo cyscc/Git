@@ -35,6 +35,10 @@ public class Student {
         this.stuAge = stuAge;
     }
 
+    public void page(){
+        System.out.println("???");
+    }
+
     @Override
     public String toString() {
         return "Student{" +
