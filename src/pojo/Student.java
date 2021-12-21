@@ -39,6 +39,10 @@ public class Student {
         System.out.println("???");
     }
 
+    public void page1(){
+        System.out.println("adidas");
+    }
+
     @Override
     public String toString() {
         return "Student{" +
