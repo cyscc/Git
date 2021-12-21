@@ -41,6 +41,7 @@ public class Student {
 
     public void page1(){
         System.out.println("adidas");
+        System.out.println("adidas");
     }
 
     @Override
